@@ -118,7 +118,7 @@ pip install olmocr[gpu] --find-links https://flashinfer.ai/whl/cu124/torch2.4/fl
 
 ### Local Usage Example
 
-For quick testing, try the [web demo](https://olmocr.allen.ai/). To run locally, a GPU is required, as inference is powered by [sglang](https://github.com/sgl-project/sglang) under the hood.
+To run locally, a GPU is required, as inference is powered by [sglang](https://github.com/sgl-project/sglang) under the hood.
 
 Convert a Single PDF:
 ```bash
