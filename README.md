@@ -1,9 +1,9 @@
-<div align="center">
+<!-- <div align="center">
   <!-- <img src="https://github.com/allenai/OLMo/assets/8812459/774ac485-a535-4768-8f7c-db7be20f5cc3" width="300"/> -->
-<img src="https://github.com/user-attachments/assets/d70c8644-3e64-4230-98c3-c52fddaeccb6" alt="olmOCR Logo" width="300"/>
-<hr/>
-</div>
-<p align="center">
+<!-- <img src="https://github.com/user-attachments/assets/d70c8644-3e64-4230-98c3-c52fddaeccb6" alt="olmOCR Logo" width="300"/> -->
+<!-- <hr/> -->
+<!-- </div> -->
+<!-- <p align="center">
   <a href="https://github.com/allenai/OLMo/blob/main/LICENSE">
     <img alt="GitHub License" src="https://img.shields.io/github/license/allenai/OLMo">
   </a>
@@ -19,11 +19,11 @@
   <a href="https://discord.gg/sZq3jTNVNG">
     <img alt="Discord" src="https://img.shields.io/badge/Discord%20-%20blue?style=flat&logo=discord&label=Ai2&color=%235B65E9">
   </a>
-</p>
+</p> -->
 
 A toolkit for converting PDFs and other image-based document formats into clean, readable, plain text format.
 
-Try the online demo: [https://olmocr.allenai.org/](https://olmocr.allenai.org/)
+<!-- Try the online demo: [https://olmocr.allenai.org/](https://olmocr.allenai.org/) -->
 
 Features:
  - Convert PDF, PNG, and JPEG based documents into clean Markdown
@@ -319,7 +319,7 @@ A full copy of the license can be found [on GitHub](https://github.com/allenai/o
 <!-- end license -->
 
 ## Citing
-
+<!-- 
 ```bibtex
 @misc{olmocr,
       title={{olmOCR: Unlocking Trillions of Tokens in PDFs with Vision Language Models}},
@@ -330,4 +330,4 @@ A full copy of the license can be found [on GitHub](https://github.com/allenai/o
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2502.18443},
 }
-```
+``` -->
